@@ -19,7 +19,7 @@
 <li><strong>SW마에스트로 11기 인증</strong> <i>2020.05.19 ~ 2020.12.01</i></li>
 </ul> -->
 <br><br>
-### Machine Learning Engineer
+### Front-end Developer<br>
 밥---값하는 개발, KDONG
 <br><br>
 <p dir="auto"><g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji>  <i><a href="https://kdong1224.github.io/dothome21/index.html" rel="nofollow">RESUME</a></i><br>
