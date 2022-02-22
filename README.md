@@ -18,6 +18,10 @@
 <li><strong>우아한테크캠프 4기</strong> <i>2021.07.05 ~ 2021.08.31</i></li>
 <li><strong>SW마에스트로 11기 인증</strong> <i>2020.05.19 ~ 2020.12.01</i></li>
 </ul> -->
+<br><br>
+### Machine Learning Engineer
+밥---값하는 개발, KDONG
+<br><br>
 <p dir="auto"><g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji>  <i><a href="https://kdong1224.github.io/dothome21/index.html" rel="nofollow">RESUME</a></i><br>
 <g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji>  <i><a href="https://kdong1224.github.io/portfolio/index6.html" rel="nofollow">PORTFOLIO</a></i><br>
 <g-emoji class="g-emoji" alias="pencil2" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/270f.png">✏️</g-emoji>  <i><a href="https://kdong1224.tistory.com/" rel="nofollow">TISTORY</a></i></p>
