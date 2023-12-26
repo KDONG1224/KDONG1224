@@ -15,7 +15,7 @@
 <p>개발 영역 : 프론트, 백, 서버</p>
 <p>운영 URL :  </p>
 1) 블로그 : https://kdong.dev <br />
-2) 관리자 : https://admin.kdong.dev <br />
+2) 관리자 : https://admin.kdong.dev [id: client001 / pw: qwer1234]<br />
 3) API : https://api.kdong.dev/v1/api <br /><br />
 <p>기술 상세 : </p>
  1) 프론트 : React.Js, Next.Js, Typescript, Antd, React-query, Recoil, Styled Component <br />
