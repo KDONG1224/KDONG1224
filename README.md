@@ -15,15 +15,14 @@
 <p>개발 영역 : 프론트, 백, 서버</p>
 <p>운영 URL :  </p>
 1) 블로그 : https://kdong.dev <br />
-2) 관리자 : https://admin.kdong.dev [id: client001 / pw: qwer1234]<br />
+2) 관리자 : https://kdong-admin.vercel.app [id: client001 / pw: qwer1234]<br />
 3) API : https://api.kdong.dev/v1/api <br /><br />
 <p>기술 상세 : </p>
  1) 프론트 : React.Js, Next.Js, Typescript, Antd, React-query, Recoil, Styled Component <br />
  2) 백엔드 : NestJS, <br />
  3) DB : Postgres<br />
- 4) 서버 : Ubuntu 20.04, Nginx<br />
- 5) 기타 : Google Analytics<br />
- 6) 추가 예정 : Kafka, ELK stack<br />
+ 4) 기타 : Google Analytics<br />
+ 5) 추가 예정 : Kafka, ELK stack<br />
 </div>
 
 #
