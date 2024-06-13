@@ -1,3 +1,10 @@
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/KDONG1224"
+  width="600"
+  height="300"
+/>
+</a>
 <div align="center">
 <h3>🍀 Me 🍀</h3>
 <p><a href="https://kdong.dev/" target="_blank"><img src="https://img.shields.io/badge/BLOG-EA4AAA?style=flat&logo=GitHub Sponsors&logoColor=white"/></a></p>
