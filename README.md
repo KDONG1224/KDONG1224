@@ -14,26 +14,6 @@
 
 #
 
-<div align="left">
-<p>[ 개인 프로젝트 ]</p> 
-<p>프로젝트 명 : 밥값하는 개발자 블로그 KDONG</p>
-<p>프로젝트 설명 : 자유로운 나만의 글을 공유하는 블로그</p>
-<p>참여 인원 : 1명 (개인 단독 진행 중)</p>
-<p>개발 영역 : 프론트, 백, 서버</p>
-<p>운영 URL :  </p>
-1) 블로그 : https://kdong.dev <br />
-2) 관리자 : https://kdong-admin.vercel.app [id: client001 / pw: qwer1234]<br />
-3) API : https://api.kdong.dev/v1/api <br /><br />
-<p>기술 상세 : </p>
- 1) 프론트 : React.Js, Next.Js, Typescript, Antd, React-query, Recoil, Styled Component <br />
- 2) 백엔드 : NestJS, <br />
- 3) DB : Postgres<br />
- 4) 기타 : Google Analytics<br />
- 5) 추가 예정 : Kafka, ELK stack<br />
-</div>
-
-#
-
 <h3>🔥 Tech Stack 🔥</h3>
 <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=CC6699"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/JavaScript-gray?style=flat&logo=JavaScript&logoColor=F7DF1E"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/React-white?style=flat&logo=React&logoColor=61DAFB"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Next.js-f1d8d9?style=flat&logo=Next.js&logoColor=02343F"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Redux-pink?style=flat&logo=Redux&logoColor=764ABC"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/ReduxSaga-white?style=flat&logo=ReduxSaga&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/ReduxToolkit-07553B?style=flat&logo=ReduxToolkit&logoColor=07553B"/></p>
 
