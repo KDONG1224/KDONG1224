@@ -1,24 +1,20 @@
+<!--
 Hi there 👋 I'm Frontend Developer. 🚀
 I am a 3+ years experienced developer with expertise in React ecosystem and 3D WebGL.
 With my specialization in Frontend Development and Business Impact Creation, I have experiences in various technical fields including DevOps and Architecture Design.
 Currently, I'm focusing to enhance some professional knowledge in 3D WebGL programming and Frontend expertise.
-
 I enjoy exploring new technologies, building innovative solutions and mentoring junior developers. 💻🌟📚
 I hope to develop business-value-driven services. 🎯
-
-
 ### 💪 Skills
 **Main**  
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 </p>
-
 **Main Language**
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
-
 **Libraries**
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
@@ -32,7 +28,6 @@ I hope to develop business-value-driven services. 🎯
   <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white"/>
   <img src="https://img.shields.io/badge/Styled%20Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
 </p>
-
 **Tools**
 <p>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
@@ -44,7 +39,6 @@ I hope to develop business-value-driven services. 🎯
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white"/>
 </p>
-
 **Learning**
 <p>
   <img src="https://img.shields.io/badge/WebGL%20Shaders-990000?style=for-the-badge&logo=webgl&logoColor=white"/>
@@ -53,9 +47,12 @@ I hope to develop business-value-driven services. 🎯
   <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white"/>
   <img src="https://img.shields.io/badge/Module%20Federation-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black"/>
 </p>
-
 ### Contact
 ✉️ gkfl8809@naver.com
+-->
 
 ### Garden
+
 [![GitGarden](https://gitgarden.marshallku.dev/?user_name=KDONG1224)](https://github.com/marshallku/gitgarden)
+
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FKDONG1224%2FKDONG1224?color=yellow&label=hits&size=small)](https://myhits.vercel.app)
